@@ -86,10 +86,6 @@
 
 ### [**vtikha**](https://github.com/vtikha) grade
 
-| assignment | status | score |
-|    :--:    |  :--:  | :--:  |
-| [assignment_closest-blob-vtikha](https://github.com/vvv17-vision/assignment_closest-blob-vtikha) | :x: | **0** |
-
 ![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
 
 ---
