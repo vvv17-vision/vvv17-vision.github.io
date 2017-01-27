@@ -1,1 +1,1 @@
-## Gradebook of VVV{YY} Robot {Course}
+## Gradebook of VVV17 Robot Vision
