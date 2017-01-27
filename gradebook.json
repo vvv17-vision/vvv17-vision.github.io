@@ -74,7 +74,14 @@
   {
     "username": "vtikha",
     "tutorials": [],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_closest-blob-vtikha",
+        "status": ":x:",
+        "last_commit_date": "2017-01-27T12:23:10Z",
+        "score": 5
+      }
+    ],
     "score": 0
   }
 ]
