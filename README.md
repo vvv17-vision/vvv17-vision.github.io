@@ -88,9 +88,9 @@
 
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
-| [assignment_closest-blob-vtikha](https://github.com/vvv17-vision/assignment_closest-blob-vtikha) | :x: | **0** |
+| [assignment_closest-blob-vtikha](https://github.com/vvv17-vision/assignment_closest-blob-vtikha) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-5-brightgreen.svg?style=flat-square)
 
 ---
 
