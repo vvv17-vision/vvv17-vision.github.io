@@ -187,9 +187,10 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_find-wally-gmmarconi](https://github.com/vvv17-vision/tutorial_find-wally-gmmarconi) | :white_check_mark: | **1** |
+| [tutorial_yarp-opencv-gmmarconi](https://github.com/vvv17-vision/tutorial_yarp-opencv-gmmarconi) | :white_check_mark: | **1** |
 | [assignment_closest-blob-gmmarconi](https://github.com/vvv17-vision/assignment_closest-blob-gmmarconi) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-6-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-7-brightgreen.svg?style=flat-square)
 
 ---
 
