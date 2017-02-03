@@ -68,7 +68,11 @@
 
 ### [**BarisSerhan**](https://github.com/BarisSerhan) grade
 
-![total score](https://img.shields.io/badge/total_score-0-orange.svg?style=flat-square)
+| assignment | status | score |
+|    :--:    |  :--:  | :--:  |
+| [tutorial_find-wally-BarisSerhan](https://github.com/vvv17-vision/tutorial_find-wally-BarisSerhan) | :white_check_mark: | **1** |
+
+![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
 
 ---
 
