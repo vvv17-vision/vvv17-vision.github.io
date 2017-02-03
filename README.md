@@ -19,9 +19,9 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_find-wally-alexarossi](https://github.com/vvv17-vision/tutorial_find-wally-alexarossi) | :white_check_mark: | **1** |
 | [tutorial_yarp-opencv-alexarossi](https://github.com/vvv17-vision/tutorial_yarp-opencv-alexarossi) | :white_check_mark: | **1** |
-| [assignment_closest-blob-alexarossi](https://github.com/vvv17-vision/assignment_closest-blob-alexarossi) | :x: | **0** |
+| [assignment_closest-blob-alexarossi](https://github.com/vvv17-vision/assignment_closest-blob-alexarossi) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-7-brightgreen.svg?style=flat-square)
 
 ---
 
