@@ -298,6 +298,7 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_find-wally-nolbriker](https://github.com/vvv17-vision/tutorial_find-wally-nolbriker) | :white_check_mark: | **1** |
+| [assignment_closest-blob-nolbriker](https://github.com/vvv17-vision/assignment_closest-blob-nolbriker) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
 
