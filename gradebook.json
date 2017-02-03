@@ -241,9 +241,15 @@
   },
   {
     "username": "LuSeKa",
-    "tutorials": [],
+    "tutorials": [
+      {
+        "name": "tutorial_find-wally-LuSeKa",
+        "status": ":white_check_mark:",
+        "score": 1
+      }
+    ],
     "assignments": [],
-    "score": 0
+    "score": 1
   },
   {
     "username": "mazzamani",
