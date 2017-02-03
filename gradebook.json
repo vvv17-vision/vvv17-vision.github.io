@@ -265,6 +265,11 @@
         "name": "tutorial_find-wally-damianomal",
         "status": ":white_check_mark:",
         "score": 1
+      },
+      {
+        "name": "tutorial_yarp-opencv-damianomal",
+        "status": ":white_check_mark:",
+        "score": 1
       }
     ],
     "assignments": [
@@ -275,7 +280,7 @@
         "score": 5
       }
     ],
-    "score": 1
+    "score": 2
   },
   {
     "username": "EgorLakomkin",
