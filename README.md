@@ -123,9 +123,9 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_find-wally-crbothe](https://github.com/vvv17-vision/tutorial_find-wally-crbothe) | :white_check_mark: | **1** |
 | [tutorial_yarp-opencv-crbothe](https://github.com/vvv17-vision/tutorial_yarp-opencv-crbothe) | :white_check_mark: | **1** |
-| [assignment_closest-blob-crbothe](https://github.com/vvv17-vision/assignment_closest-blob-crbothe) | :x: | **0** |
+| [assignment_closest-blob-crbothe](https://github.com/vvv17-vision/assignment_closest-blob-crbothe) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-7-brightgreen.svg?style=flat-square)
 
 ---
 
