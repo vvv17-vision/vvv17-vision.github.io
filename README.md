@@ -43,9 +43,10 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_find-wally-amalaise](https://github.com/vvv17-vision/tutorial_find-wally-amalaise) | :white_check_mark: | **1** |
+| [tutorial_yarp-opencv-amalaise](https://github.com/vvv17-vision/tutorial_yarp-opencv-amalaise) | :white_check_mark: | **1** |
 | [assignment_closest-blob-amalaise](https://github.com/vvv17-vision/assignment_closest-blob-amalaise) | :x: | **0** |
 
-![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
 ---
 
