@@ -30,6 +30,7 @@
 | assignment | status | score |
 |    :--:    |  :--:  | :--:  |
 | [tutorial_find-wally-AlexisBillier](https://github.com/vvv17-vision/tutorial_find-wally-AlexisBillier) | :white_check_mark: | **1** |
+| [assignment_closest-blob-AlexisBillier](https://github.com/vvv17-vision/assignment_closest-blob-AlexisBillier) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-1-brightgreen.svg?style=flat-square)
 
