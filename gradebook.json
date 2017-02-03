@@ -130,7 +130,14 @@
         "score": 1
       }
     ],
-    "assignments": [],
+    "assignments": [
+      {
+        "name": "assignment_closest-blob-bmagyar",
+        "status": ":x:",
+        "last_commit_date": "2017-02-03 15:57:35 UTC",
+        "score": 5
+      }
+    ],
     "score": 1
   },
   {
