@@ -70,6 +70,7 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_find-wally-Arya07](https://github.com/vvv17-vision/tutorial_find-wally-Arya07) | :white_check_mark: | **1** |
 | [tutorial_yarp-opencv-Arya07](https://github.com/vvv17-vision/tutorial_yarp-opencv-Arya07) | :white_check_mark: | **1** |
+| [assignment_closest-blob-Arya07](https://github.com/vvv17-vision/assignment_closest-blob-Arya07) | :x: | **0** |
 
 ![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
 
