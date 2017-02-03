@@ -224,9 +224,9 @@
 |    :--:    |  :--:  | :--:  |
 | [tutorial_find-wally-jibweb](https://github.com/vvv17-vision/tutorial_find-wally-jibweb) | :white_check_mark: | **1** |
 | [tutorial_yarp-opencv-jibweb](https://github.com/vvv17-vision/tutorial_yarp-opencv-jibweb) | :white_check_mark: | **1** |
-| [assignment_closest-blob-jibweb](https://github.com/vvv17-vision/assignment_closest-blob-jibweb) | :x: | **0** |
+| [assignment_closest-blob-jibweb](https://github.com/vvv17-vision/assignment_closest-blob-jibweb) | :white_check_mark: | **5** |
 
-![total score](https://img.shields.io/badge/total_score-2-brightgreen.svg?style=flat-square)
+![total score](https://img.shields.io/badge/total_score-7-brightgreen.svg?style=flat-square)
 
 ---
 
