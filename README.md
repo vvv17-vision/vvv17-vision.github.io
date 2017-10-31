@@ -1,5 +1,7 @@
 ## Gradebook of VVV17 Robot Vision
 
+As VVV17 is now over, the students repositories have been [archived](https://github.com/vvv17-vision/vvv17-vision.github.io/tree/master/archives).
+
 ### [**AlexAntn**](https://github.com/AlexAntn) grade
 
 | assignment | status | score |
